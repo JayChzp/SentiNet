@@ -16,5 +16,5 @@ Download GoogleNews-vectors-negative300.bin in the directory of the code.
 # Run
 
 ```
-python SentiNet.py --mr --embedding_path GoogleNews-vectors-negative300.bin --isBinary
+python sentinet.py --mr --embedding_path GoogleNews-vectors-negative300.bin --isBinary
 ```
